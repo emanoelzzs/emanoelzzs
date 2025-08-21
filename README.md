@@ -22,7 +22,7 @@
 <div>
  <a href="https://www.instagram.com/emanoelzzs/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
- <img align="right" width="200" src="https://i.pinimg.com/originals/1e/9b/03/1e9b03994f3d5583afb857d74724b264.gif"/>
+ <img align="right" width="200" src="https://media.tenor.com/h-rOvsfGExUAAAAM/dexter-flabbergasted.gif"/>
 
 
 
