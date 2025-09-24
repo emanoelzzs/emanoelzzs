@@ -4,9 +4,9 @@
 <strong>Nasci em 24/07/2009, atualmente estou cursando desenvolvimento de sistemas na EEEP Deputado Roberto Mesquita.</strong>
 <br>
 ## Gostos e Hobbies
-- Pratico esportes
-- Gosto de sair com os manos 😎
-- Amo minha mulher *L*
+- Praticar esportes
+- Sair com amigos
+- Amo minha mulher *L* ❤
   <br>
     <br>
 ## Aprendendo!
@@ -16,7 +16,6 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width:"40" height="40" />
 </div>
       <br>
-- Futuramente pretendo me formar em engenharia de software
 
 ## contate-me
 <div>
