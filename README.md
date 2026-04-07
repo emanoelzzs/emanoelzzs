@@ -1,7 +1,7 @@
 # Hey Man, seja bem-vindo(a) ao meu Github
  ## *Conheça-me um pouco* ⬇
  
-<strong>Nasci em 24/07/2009, atualmente estou cursando desenvolvimento de sistemas na EEEP Deputado Roberto Mesquita.</strong>
+<strong>atualmente estou cursando desenvolvimento de sistemas na EEEP Deputado Roberto Mesquita.</strong>
 <br>
 
   <br>
