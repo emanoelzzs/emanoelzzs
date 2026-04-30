@@ -1,13 +1,13 @@
-# Hey Man, seja bem-vindo(a) ao meu Github
- ## *Conheça-me um pouco* ⬇
+# Hey everyone, welcome to my Github
+ ## *Get to know me a little.* ⬇
  
-<strong>atualmente estou cursando desenvolvimento de sistemas na EEEP Deputado Roberto Mesquita.</strong>
+<strong>I am currently studying systems development at EEEP Deputado Roberto Mesquita.</strong>
 <br>
 
   <br>
     <br>
     
-## Aprendendo!
+## Learning!
 <div>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width:"40" height="40" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width:"40" height="40" />
@@ -15,7 +15,7 @@
 </div>
       <br>
 
-## contate-me
+## contact me
 <div>
  <a href="https://www.instagram.com/emanoelzzs/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
