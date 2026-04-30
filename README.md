@@ -14,8 +14,7 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width:"40" height="40" />
   <img loading="lazy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkN7OWhGRfEKsLUiKc_2Zi4KesKMaXfc9JKw&s" widht:"50" height="50"/>
 </div>
- 
-      <br>
+
 
 ## contact me
 <div>
